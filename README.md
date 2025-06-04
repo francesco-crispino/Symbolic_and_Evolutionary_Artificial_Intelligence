@@ -17,6 +17,7 @@ This repository explores and compares various methods for CNN convolution operat
 
 1.  **Clone the Repository.**
 2.  **Install Dependencies using** `requirements.txt`:
+
     All code was executed using a PC with a NVIDIA RTX 3050 wiith CUDA 12.8. Please check which version of CUDA your device has installed and edit accordingly the Pytorch and CuPy versions in the requirements.
 4.  **Dataset & Weights:**
     *   Place MNIST dataset files in a `MNIST/` directory.
